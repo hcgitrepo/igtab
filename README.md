@@ -8,6 +8,11 @@ This module:
 - Supports 2 initializing methods: zeros, random values from the uniform distribution
 - Supports 4 types of models: binary classification, multiclass classification, regression, autoencoder for anomaly detection
 
+Here are useful documents.
+- Implementation: https://github.com/hcgitrepo/igtab/blob/main/Implementation_of_Integrated_Gradients_for_tabular_data.ipynb
+- Example: https://github.com/hcgitrepo/igtab/blob/main/Example_of_Integrated_Gradients_for_tabular_data.ipynb
+- Source: https://github.com/hcgitrepo/igtab/blob/main/igtab.py
+
 ## Usage
 
 ### Example of binary classification
